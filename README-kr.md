@@ -326,7 +326,7 @@
     <td align="center"><a href="https://youtube.com/channel/UCp7-e58oTMBArfCeiSooISA"><img src="https://avatars.githubusercontent.com/u/88363421?v=4?s=100" width="100px;" alt=""/><br /><sub><b>JumperBot_</b></sub></a><br /><a href="https://github.com/zenika-open-source/promote-open-source-project/commits?author=JumperBot" title="Documentation">📖</a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/JamesJang26"><img src="https://avatars.githubusercontent.com/u/5617452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>James Jang</b></sub></a><br /><a href="#translation-JamesJang" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/JamesJang26"><img src="https://avatars.githubusercontent.com/u/89830875?v=4&s=100" width="100px;" alt=""/><br /><sub><b>James Jang</b></sub></a><br /><a href="#translation-JamesJang" title="Translation">🌍</a></td>
   </tr>
 </table>
 
