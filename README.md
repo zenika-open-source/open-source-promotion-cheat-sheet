@@ -24,6 +24,7 @@ List of available languages:
 - [Bahasa Indonesia](./README-id.md)
 - [Italiano](./README-it.md)
 - [日本語](./README-jp.md)
+- [한국어](./README-kr.md)
 - [Português](./README-pt.md)
 - [Русский](./README-ru.md)
 - [සිංහල](./README-si.md)
